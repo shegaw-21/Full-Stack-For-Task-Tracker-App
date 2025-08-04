@@ -8,8 +8,9 @@
 
 
 Project Folder Structure
-The project is organized into two main directories: backend for the Node.js API and frontend for the React application. <img width="325" height="486" alt="image" 
-                                                                                                                                          src="https://github.com/user-attachments/assets/043b99cf-9e7b-45a4-8763-d471ac5d8dc0" />                                  <img width="210" height="520" alt="image" src="https://github.com/user-attachments/assets/40366ae0-e3f6-43b4-afdb-bcab4cc4387b" />
+The project is organized into two main directories: backend for the Node.js API and frontend for the React application.
+<img width="325" height="486" alt="image" src="https://github.com/user-attachments/assets/043b99cf-9e7b-45a4-8763-d471ac5d8dc0" /> 
+                                                                                                                                                                           <img width="210" height="520" alt="image" src="https://github.com/user-attachments/assets/40366ae0-e3f6-43b4-afdb-bcab4cc4387b" />
 
 
 
