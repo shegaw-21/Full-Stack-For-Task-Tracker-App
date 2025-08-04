@@ -1,5 +1,10 @@
-<img width="1316" height="688" alt="image" src="https://github.com/user-attachments/assets/62a63a2d-131b-48e6-b3b1-8fe7c6fcf470" />
+<img width="1316" height="688" alt="image" src="https://github.com/user-attachments/assets/62a63a2d-131b-48e6-b3b1-8fe7c6fcf470" />   Project Folder Structure
+The project is organized into two main directories: backend for the Node.js API and frontend for the React application. <img width="325" height="486" alt="image" 
+                                                                                                                                         src="https://github.com/user-attachments/assets/043b99cf-9e7b-45a4-8763-d471ac5d8dc0" />
+
+
 <img width="210" height="520" alt="image" src="https://github.com/user-attachments/assets/40366ae0-e3f6-43b4-afdb-bcab4cc4387b" />
+
 
 
 My Full-Stack Task Tracker Application
