@@ -1,3 +1,11 @@
+<img width="1315" height="693" alt="image" src="https://github.com/user-attachments/assets/76363362-5fae-4297-b96b-2b141df89a63" />
+
+
+<img width="1365" height="701" alt="image" src="https://github.com/user-attachments/assets/3875d7f9-b511-453d-80c1-8ef470b2b2db" />
+
+
+
+
 <img width="1316" height="688" alt="image" src="https://github.com/user-attachments/assets/62a63a2d-131b-48e6-b3b1-8fe7c6fcf470" />  
 
 
@@ -167,10 +175,10 @@ Add an Environment Variable in Vercel's dashboard:
 
 Name: VITE_API_BASE_URL
 
-Value: https://backend-task-tracker-app-3.onrender.com
+Value: https://backend-task-tracker-app-9.onrender.com
 
 Deploy the project.
 
-Copy the public URL provided by Vercel (https://frontend-task-tracker-app-ms1l.vercel.app/). This is my Deployed Frontend App URL.
+Copy the public URL provided by Vercel (https://frontend-task-tracker-app-dmnm.vercel.app/). This is my Deployed Frontend App URL.
 
 
