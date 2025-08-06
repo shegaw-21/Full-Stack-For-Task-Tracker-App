@@ -83,11 +83,11 @@ You've already set up your database using MySQL Workbench and FreeSQLDatabase.co
 
 Access phpMyAdmin: Log in to your freesqldatabase.com account and access phpMyAdmin.
 
-Select your Database: Choose the database name provided by FreeSQLDatabase.com (e.g., sql5793125).
+Select your Database: Choose the database name provided by FreeSQLDatabase.com (e.g., sql5793693).
 
 Execute SQL: Go to the "SQL" tab and run the following commands to create the tasks table:
 
-USE sql5793125; -- Replace with your actual database name from FreeSQLDatabase.com
+USE sql5793693; -- Replace with your actual database name from FreeSQLDatabase.com
 
 CREATE TABLE IF NOT EXISTS tasks (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -144,7 +144,7 @@ Deploy to Render:
 
 Sign up/log in to Render.
 
-Create a new Web Service, connecting it to your backend GitHub repository.
+Create a new Web Service, connecting it to my backend GitHub repository.
 
 Configure the service with Node runtime, npm install for build, and npm start for start command.
 
@@ -152,24 +152,13 @@ my database credentials as Environment Variables in Render's dashboard (DB_HOST,
 
 Deploy the service.
 
-Copy the public URL provided by Render (e.g., https://your-backend-app.onrender.com). This is my Deployed Backend API URL.
+Copy the public URL provided by Render (e.g., https://backend-task-tracker-app-9.onrender.com). This is my Deployed Backend API URL.
 
 Frontend Deployment (Vercel)
-Push Frontend Code to GitHub: Ensure your Frontend-Task-Tracker-App repository is pushed to GitHub.
+Push Frontend Code to GitHub:   Frontend-Task-Tracker-App repository is pushed to GitHub.
 
 Deploy to Vercel:
 
-Sign up/log in to Vercel.
-
-Create a new Project, connecting it to my frontend GitHub repository.
-
-Configure the project:
-
-Root Directory: If your frontend is in a subfolder, specify it (e.g., frontend/).
-
-Build Command: npm run build
-
-Output Directory: dist (This is crucial, as Vite outputs to dist).
 
 Add an Environment Variable in Vercel's dashboard:
 
